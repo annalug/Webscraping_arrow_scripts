@@ -1,9 +1,7 @@
 # Webscraping_arrow_scripts
-Analyzing the correlation with the content of Arrow (American TV Serie) with it's ratings on IMDB, using LDA.
-
-Predicting the success of Arrow (American TV Serie)....
+Generating topics (using LDA) for each episode of the Arrow series to predict its success based on IMDb ratings.
 
 # The data
 
-The scripts were taken from ....
+The scripts were taken from https://subslikescript.com/ and the ratings from https://www.imdb.com/ .
 
