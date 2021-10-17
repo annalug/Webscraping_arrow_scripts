@@ -1,4 +1,4 @@
-# Webscraping_arrow_scripts
+# Webscraping arrow scripts and extracting the main topics of each episode
 Generating topics (using LDA) for each episode of the Arrow series to predict its success based on IMDb ratings.
 
 # The data
