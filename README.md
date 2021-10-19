@@ -9,5 +9,5 @@ The scripts were taken from https://subslikescript.com/ and the ratings from htt
 The visualization is also compiled into a streamlit script. To do this, just install the dependencies in requirements-streamlit.txt and run the following command:
 
 ```bash
-streamlit run Clustering.py
+streamlit run app.py
 ```
