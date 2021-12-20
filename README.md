@@ -4,8 +4,7 @@ Generating topics (using LDA) for each episode of the Arrow series to predict it
 Divided in:
 1. Dataset_LDA_model.ipynb - Webscraping the scripts of each episode and the LDA model to generate a topic for each episode;
 2. wikipedia_table.ipynb - Webscraping the wikipedia site for more information on the metrics of each episode;
-3. Feature selection.ipynb - A notebook to perform feature selection in order to select the best features for the classification model;
-4. 3_Dataset_final.ipynb - A notebook with the classification model and grid-searc of hyperparameters.
+3. 3_Dataset_final.ipynb - A notebook with the classification model and grid-searc of hyperparameters.
 
 # The data
 
